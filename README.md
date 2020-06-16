@@ -11,3 +11,9 @@ git diff : compare current state
 -HEAD: tells you where you are
 remotes
 
+#conflictts
+ you have multip0le people  work oon the same fule and at the same place
+Git will either automatically
+#Inviting collaborators
+-pair up (2 people)
+find who will be the main person )
