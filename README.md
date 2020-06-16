@@ -9,3 +9,5 @@ git diff : compare current state
 -git diff<HASH>
 -git checkout
 -HEAD: tells you where you are
+remotes
+
